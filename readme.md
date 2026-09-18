@@ -1,6 +1,6 @@
 ### Requirements: 
-* PowerShell
-* PnP PowerShell Module
+* [PowerShell](https://learn.microsoft.com/en-us/powershell/)
+* [PnP PowerShell Module](https://pnp.github.io/powershell/)
 
 ### Example Usage: 
 ```powershell
